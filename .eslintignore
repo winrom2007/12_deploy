@@ -1,0 +1,4 @@
+**/node_modules/**
+.vscode/**
+.idea/**
+10_theory/02_simple-script-malformed.js
